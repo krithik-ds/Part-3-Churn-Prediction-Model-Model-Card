@@ -1,0 +1,17 @@
+{
+    "model_name": "Random Forest Classifier",
+    "selected_threshold": 0.4,
+    "test_metrics": {
+        "accuracy": 0.8214,
+        "precision": 0.7967,
+        "recall": 0.8631,
+        "f1_score": 0.8286,
+        "roc_auc": 0.8883
+    },
+    "confusion_matrix": {
+        "tn": 131,
+        "fp": 37,
+        "fn": 23,
+        "tp": 145
+    }
+}

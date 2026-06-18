@@ -1,0 +1,11 @@
+customer_id,snapshot_date,city_tier,age_group,acquisition_channel,loyalty_tier,preferred_category,marketing_consent,recency_days,frequency_180d,monetary_180d,return_rate_180d,avg_discount_pct_180d,avg_rating_180d,category_diversity_180d,ticket_count_90d,negative_ticket_rate_90d,avg_resolution_hours_90d,days_since_signup,sessions_30d,product_views_30d,cart_adds_30d,wishlist_adds_30d,abandoned_carts_30d,email_opens_30d,campaign_clicks_30d,last_visit_days_ago,churn_next_60d,split,predicted_prob,predicted_class
+CUST00044,2025-09-30,Tier 2,35-44,Google Search,None,Baby Care,Yes,72,1,899.51,0.0,0.29,4.0,1,0,0.0,0.0,476,6,27,2,1,1,4,2,10,0,test,0.475053493112193,1
+CUST00109,2025-09-30,Tier 1,25-34,Instagram,Silver,Skin Care,Yes,92,2,1622.28,0.0,0.255,4.5,2,0,0.0,0.0,492,1,4,0,0,0,3,1,16,0,test,0.5035533474949739,1
+CUST00335,2025-09-30,Tier 2,45+,Instagram,None,Skin Care,Yes,148,2,1328.14,0.0,0.38,3.5,1,0,0.0,0.0,517,7,40,1,1,0,3,1,22,0,test,0.6812756862619038,1
+CUST00437,2025-09-30,Tier 2,35-44,Marketplace,Silver,Baby Care,Yes,151,1,729.22,0.0,0.25,4.0,1,0,0.0,0.0,216,0,0,0,0,0,0,0,33,0,test,0.8704063664978986,1
+CUST00491,2025-09-30,Tier 1,25-34,Organic,Silver,Makeup,Yes,97,1,540.89,1.0,0.24,4.0,1,1,0.0,31.8,182,10,40,3,2,1,5,1,20,0,test,0.5766291367347319,1
+CUST00580,2025-09-30,Tier 2,35-44,Referral,None,Fragrance,Yes,74,1,713.84,0.0,0.14,3.0,1,0,0.0,0.0,126,4,23,1,0,0,5,1,17,0,test,0.4712177090329021,1
+CUST00588,2025-09-30,Tier 1,18-24,Referral,Silver,Skin Care,No,76,1,649.95,0.0,0.19,4.0,1,0,0.0,0.0,173,6,32,1,0,0,0,0,0,0,test,0.42274485247694554,1
+CUST00734,2025-09-30,Tier 2,25-34,Google Search,None,Skin Care,Yes,89,2,2020.81,0.0,0.38,4.5,2,0,0.0,0.0,531,6,19,3,0,2,4,0,30,0,test,0.49394394603959446,1
+CUST00815,2025-09-30,Tier 3,18-24,Referral,Silver,Skin Care,Yes,137,2,2569.54,0.0,0.26,4.0,2,0,0.0,0.0,396,3,12,1,0,0,0,0,31,0,test,0.727895976215938,1
+CUST00878,2025-09-30,Tier 2,18-24,Marketplace,None,Baby Care,Yes,134,2,2578.68,0.0,0.13,2.5,2,0,0.0,0.0,217,12,66,3,3,2,6,1,14,0,test,0.40482286533745726,1
